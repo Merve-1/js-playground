@@ -157,7 +157,7 @@ No advanced JavaScript knowledge is required. The topics are organized to help y
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/Merve-1/js-playground
+git clone [https://github.com/Merve-1/js-playground](https://github.com/Merve-1/js-playground)
 ```
 
 Navigate into the project folder:
