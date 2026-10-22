@@ -130,14 +130,14 @@ By working through this repository, you will learn how to:
 
 Depending on the lesson or project, this repository uses:
 
-- **HTML5** — page structure
-- **CSS3** — styling and layouts
-- **JavaScript (ES6+)** — application logic and interactivity
-- **DOM API** — dynamic page manipulation
-- **Web Storage API** — saving data in the browser
-- **Fetch API** — requesting data from external services
-- **Google Stitch** — exploring and creating UI designs
-- **Browser Developer Tools** — debugging and testing
+- **HTML5**: page structure
+- **CSS3**: styling and layouts
+- **JavaScript (ES6+)**: application logic and interactivity
+- **DOM API**: dynamic page manipulation
+- **Web Storage API**: saving data in the browser
+- **Fetch API**: requesting data from external services
+- **Google Stitch**: exploring and creating UI designs
+- **Browser Developer Tools**: debugging and testing
 
 ## 🚀 Getting Started
 
@@ -163,7 +163,7 @@ git clone https://github.com/Merve-1/js-playground.git
 Navigate into the project folder:
 
 ```bash
-cd js=playground
+cd js-playground
 ```
 
 Open the folder in your preferred code editor.
