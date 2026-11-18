@@ -29,7 +29,7 @@ By the end of this session, you will be able to:
 Recall Python Lists:
 
 ```
-names = ["Ali", "Sara", "Omar"]print(names)
+names = ["Ali", "Sara", "Omar"]
 print(names)
 ```
 
@@ -155,7 +155,7 @@ Python:
 
 ```
 def welcome():    
-    print("Welcome to JavaScript!")welcome()
+    print("Welcome to JavaScript!")
 
 welcome()
 ```
